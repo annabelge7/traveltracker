@@ -1,6 +1,6 @@
 'use client'
 
-import { Badge, Button } from '@/components/atoms'
+import { Badge } from '@/components/atoms'
 import { Post } from '@/types'
 import { formatDate } from '@/lib/utils'
 import { MapPin, Calendar, X, ChevronLeft, ChevronRight } from 'lucide-react'

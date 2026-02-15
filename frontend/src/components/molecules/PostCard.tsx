@@ -1,6 +1,6 @@
 'use client'
 
-import { Card, CardContent, Badge, Button } from '@/components/atoms'
+import { Card, CardContent, Badge } from '@/components/atoms'
 import { Post } from '@/types'
 import { formatDate, formatRelativeDate } from '@/lib/utils'
 import { MapPin, Calendar, Pencil, Trash2 } from 'lucide-react'
